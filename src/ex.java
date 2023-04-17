@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ex {
     public static void main(String[] args) {
-        long start = System.nanoTime();
+        //long start = System.nanoTime();
 
         passwordGenerator passwordGeneratorOBJ = new passwordGenerator();
         StringBuilder password;
@@ -16,9 +16,9 @@ public class ex {
 
         password = passwordGeneratorOBJ.generator(letters,choice);
         System.out.println(password);
-        long end = System.nanoTime();
-        long execution = end - start;
-        System.out.println("Execution time: " + execution + " nanoseconds");
+//         long end = System.nanoTime();
+//         long execution = end - start;
+//         System.out.println("Execution time: " + execution + " nanoseconds");
     }
 }
 
