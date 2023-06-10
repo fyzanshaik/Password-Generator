@@ -38,7 +38,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Acknowledgements
 
-This application was developed by [Your Name]. Special thanks to [Contributor Name] for their contributions and ideas.
+This application was developed by Faizan Shaik. 
 
 ---
 
