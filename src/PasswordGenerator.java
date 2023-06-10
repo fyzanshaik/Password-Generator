@@ -1,7 +1,15 @@
 import java.util.Random;
-import java.util.Scanner;
 
-public class passwordGenerator {
+/**
+ * The PasswordGenerator class generates passwords based on the specified parameters.
+ */
+public class PasswordGenerator {
+    /**
+     * Generates a password with the specified number of characters and character choice.
+     * @param letters The number of characters in the password
+     * @param choice The character choice: 'A' for alphabets, 'B' for symbols, 'C' for both
+     * @return The generated password as a StringBuilder object
+     */
     public StringBuilder generator(int letters,char choice) {
         int j = 0;
         char ch;
