@@ -4,9 +4,9 @@ The Password Generator Application allows you to generate secure passwords with 
 
 ## Usage
 
-1. Open the `ex.java` file.
+1. Open the `PasswordGeneratorApp.java` file.
 
-2. Run the `main` method in the `ex` class.
+2. Run the `main` method in the `PasswordGeneratorApp` class.
 
 3. You will be prompted to provide the following inputs:
    - **How many characters do you need?**: Enter the desired length for your password.
@@ -18,9 +18,9 @@ The Password Generator Application allows you to generate secure passwords with 
 
 ## Files
 
-- `ex.java`: The main class that runs the password generator application. It takes user inputs and generates passwords using the `passwordGenerator` class.
+- `PasswordGeneratorApp.java`: The main class that runs the password generator application. It takes user inputs and generates passwords using the `PasswordGenerator` class.
 
-- `passwordGenerator.java`: The password generator class that contains the logic for generating passwords based on the specified requirements. It uses random number generation and character manipulation to create secure passwords.
+- `PasswordGenerator.java`: The password generator class that contains the logic for generating passwords based on the specified requirements. It uses random number generation and character manipulation to create secure passwords.
 
 ## Note
 
