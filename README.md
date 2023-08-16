@@ -42,6 +42,6 @@ This application was developed by Faizan Shaik.
 
 ---
 
-We hope you find this Password Generator Application helpful and easy to use. If you have any questions or suggestions, please feel free to reach out.
+I hope you find this Password Generator Application helpful and easy to use. If you have any questions or suggestions, please feel free to reach out.
 
 Happy password generating!
